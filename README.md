@@ -10,9 +10,18 @@ Greetings! 👋 I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujara
 - 🚀 Delve into the world of C++ with my exciting projects.
 - 📁 [C++ Projects - SEM 1](C++)
 
-### 2. Data Structures and Algorithms (DSA)
+### 1. Data Structures and Algorithms (DSA)
 - ⚙️ Dive deep into the realm of Data Structures and Algorithms with my innovative projects.
-- 📁 [DSA Projects - SEM 1](DSA)
+- 📁 [DSA Projects - SEM 1](./DSA_SEM1/)
+- 
+  - **Data Structure in C**
+    - 🚀 Explore projects related to implementing Data Structures in C.
+    - 
+    - *Why Data Structures in C?*
+      - *C provides low-level memory manipulation, crucial for efficient data structure implementations.*
+      - *Direct memory access allows for precise control over data layout and access.*
+      - *Efficient and fast execution, making it suitable for resource-intensive operations.*
+      - *Widely used in systems programming where close interaction with hardware is necessary.*
 
 ### 3. Python Programming
 - 🐍 Explore the magic of Python with my creative programming projects.
