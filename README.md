@@ -12,7 +12,7 @@ Greetings! 👋 I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujara
 
 ### 1. Data Structures and Algorithms (DSA)
 - ⚙️ Dive deep into the realm of Data Structures and Algorithms with my innovative projects.
-- 📁 [DSA Projects - SEM 1](./DSA_SEM1/)
+- 📁 [DSA Projects - SEM 1](DSA)
 - 
   - **Data Structure in C**
     - 🚀 Explore projects related to implementing Data Structures in C.
