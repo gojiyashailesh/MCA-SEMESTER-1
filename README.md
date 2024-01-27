@@ -1,7 +1,8 @@
 # MCA SEM 1 Projects Repository
+Greetings! 👋 I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujarat University. Welcome to my MCA SEMESTER 1 Projects Repository. This is where I've compiled all the code and materials related to my first-semester projects.
+
 - In this repository all the assignmests of the semester 1 is stored
 
-Greetings! 👋 I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujarat University. Welcome to my MCA SEMESTER 1 Projects Repository. This is where I've compiled all the code and materials related to my first-semester projects.
 
 ## 📚 Subjects Covered
 
