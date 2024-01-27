@@ -14,7 +14,7 @@ Greetings! I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujarat Uni
 
 ### 3. RDBMS (Relational Database Management System)
 - 📦 Check out my projects related to RDBMS concepts and applications.
-- 📁 [RDBMS Projects - SEM 1](./RDBMS_SEM1/)
+- 📁 [RDBMS Projects - SEM 1](RDBMS)
 
 ### 4. Data Structures and Algorithms (DSA)
 - ⚙️ Dive deep into Data Structures and Algorithms with my projects.
