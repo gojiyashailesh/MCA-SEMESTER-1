@@ -1,8 +1,8 @@
 # MCA SEM 1 Projects Repository
+
 Greetings! 👋 I'm Gojiya Shailesh, an enthusiastic MCA AI ML student at Gujarat University. Welcome to my MCA SEMESTER 1 Projects Repository. This is where I've compiled all the code and materials related to my first-semester projects.
 
-- In this repository all the assignmests of the semester 1 is stored
-
+- In this repository, all the assignments of semester 1 are stored.
 
 ## 📚 Subjects Covered
 
@@ -35,6 +35,14 @@ Feel free to reach out if you have any questions, suggestions, or if you'd like 
 Connect with me:
 - LinkedIn: [Gojiya Shailesh](#gojiyashailesh)
 - Email: [gojiyaraju25@gmail.com](mailto:gojiyaraju25@gmail.com)
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Stack Overflow: [YourStackOverflowProfile](https://stackoverflow.com/users/YourStackOverflowProfile)
+- Discord: YourDiscordUsername#1234
+- Reddit: [YourRedditUsername](https://www.reddit.com/user/YourRedditUsername)
+- Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
+- Quora: [YourQuoraProfile](https://www.quora.com/profile/YourQuoraProfile)
+- Meetup: [YourMeetupProfile](https://www.meetup.com/members/YourMeetupProfile)
+- HackerRank: [YourHackerRankProfile](https://www.hackerrank.com/YourHackerRankProfile)
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
